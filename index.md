@@ -1,0 +1,14 @@
+---
+layout: default
+title: "Yu's personal website"
+
+# this is the html page to change the name of the website
+
+---
+
+
+{% if site.show_excerpts %}
+  {% include home.html %}
+{% else %}
+  {% include archive.html title="Posts" %}
+{% endif %}
