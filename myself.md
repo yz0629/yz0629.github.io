@@ -5,6 +5,12 @@ layout: page
 categories: default
 
 # You can enable MathJax by setting `mathjax: true` on a page or globally in the `_config.yml`. Some examples:
+
+## Embedded content
+
+# You can also embed a lot of stuff, for example from YouTube, using the `embed.html` include.
+
+# {% include embed.html url="https://www.youtube.com/embed/_C0A5zX-iqM" %}
 ---
 
 ![Yu's portrait](https://github.com/yz0629/yz0629.github.io/blob/master/Yu_Zhou.jpeg)
@@ -63,8 +69,4 @@ Favorite destination so far: Chicago, Seattle
 
 Fan of [Oneworld](https://www.oneworld.com/members) alliance: [American Airlines](https://www.aa.com/homePage.do) and [Alaska Airlines](https://www.alaskaair.com/)
 
-## Embedded content
 
-You can also embed a lot of stuff, for example from YouTube, using the `embed.html` include.
-
-{% include embed.html url="https://www.youtube.com/embed/_C0A5zX-iqM" %}
