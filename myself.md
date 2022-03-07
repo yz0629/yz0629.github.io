@@ -3,14 +3,14 @@ title:  "About me"
 mathjax: true
 layout: page
 categories: default
+
+# You can enable MathJax by setting `mathjax: true` on a page or globally in the `_config.yml`. Some examples:
 ---
 
 ![Yu's portrait]()
 
 
 ## EDUCATION
-
-You can enable MathJax by setting `mathjax: true` on a page or globally in the `_config.yml`. Some examples:
 
 The University of Texas, Austin - [Department of Chemistry](https://cm.utexas.edu/): Aug. 2021 - Present
 
@@ -20,11 +20,11 @@ University of Illinois, Urbana-Champaign - [Department of Chemistry](https://che
 
 ## RESEARCH EXPERIENCE
 
-# [Yi Lu Group](https://lulab.cm.utexas.edu/)
+### [Yi Lu Group](https://lulab.cm.utexas.edu/)
 
-# [David Sarlah Group](sarlahgroup.com)
+### [David Sarlah Group](sarlahgroup.com)
 
-# [Zhaoguo Zhang Group](https://zhaoguo.sjtu.edu.cn/)
+### [Zhaoguo Zhang Group](https://zhaoguo.sjtu.edu.cn/)
 
 ## Gists
 
