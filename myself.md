@@ -25,7 +25,7 @@ Project 1: Engineering Polyketide Synthases for the Biosynthetic Chemoselective 
 
 Project 2: Artificial Metalloenzyme Catalyzed Regioselective C-H and C=C bond Oxidation
 
-### [David Sarlah Group](sarlahgroup.com), 
+### [David Sarlah Group](sarlahgroup.com)
 Palladium-Catalyzed Dearomative syn-1,4-carboamination. Published: [Angew. Chem. Int. Ed. 2019, 58(30), 10245](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201905021)
 
 ### [Zhaoguo Zhang Group](https://zhaoguo.sjtu.edu.cn/)
@@ -46,13 +46,19 @@ Microsoft, Python, Matlab, C++
 ### Lab skills: 
 Protein engineering; Metabolic engineering; Organic chemistry analysis tools such as GC-MS, HPLC & LC-MS/MS, NMR, etc
 
-## Images
+## HOBBIES
+### Music
+Favorite male singer: 
+[Terrence Lam](https://www.youtube.com/channel/UC5NMESRUXEIpoi5GzGiHEDA) 林家謙
 
-Upload an image to the *assets* folder and embed it with `![title](/assets/name.jpg))`. Keep in mind that the path needs to be adjusted if Jekyll is run inside a subfolder.
+Favorite female singers: 
+[Miriam Yeung](https://www.youtube.com/channel/UCSCtPmO9UFq-DF01nsNoF6g) 楊千嬅
 
-A wrapper `div` with the class `large` can be used to increase the width of an image or iframe.
+[Kay Tse](https://www.youtube.com/channel/UCvlce5EgkkuzHW4ez0V49sw) 謝安琪
 
-[Flower](https://unsplash.com/photos/iGrsa9rL11o) by Tj Holowaychuk
+### Travelling
+Favorite destination so far: Chicago, Seattle
+Fan of [oneworld](https://www.oneworld.com/members) alliance: [American Airlines](https://www.aa.com/homePage.do) and [Alaska Airlines](https://www.alaskaair.com/)
 
 ## Embedded content
 
