@@ -8,6 +8,6 @@ categories:
 ---
 ## Header goes here
 
-Other text. 
+My favorite singer below:
 
 [link](https://www.youtube.com/channel/UC5NMESRUXEIpoi5GzGiHEDA)
