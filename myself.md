@@ -5,40 +5,26 @@ layout: page
 categories: default
 ---
 
-![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
+![Yu's portrait]()
 
 
-## MathJax
+## EDUCATION
 
 You can enable MathJax by setting `mathjax: true` on a page or globally in the `_config.yml`. Some examples:
 
-[Euler's formula](https://en.wikipedia.org/wiki/Euler%27s_formula) relates the  complex exponential function to the trigonometric functions.
+The University of Texas, Austin - [Department of Chemistry](https://cm.utexas.edu/): Aug. 2021 - Present
 
-$$ e^{i\theta}=\cos(\theta)+i\sin(\theta) $$
+University of Illinois, Urbana-Champaign - [Department of Chemistry](https://chemistry.illinois.edu/): Aug. 2019 - Aug. 2021
 
-The [Euler-Lagrange](https://en.wikipedia.org/wiki/Lagrangian_mechanics) differential equation is the fundamental equation of calculus of variations.
+[Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), [Zhiyuan College](https://zhiyuan.sjtu.edu.cn/html/zhiyuan/): Sep. 2015- Jun. 2019
 
-$$ \frac{\mathrm{d}}{\mathrm{d}t} \left ( \frac{\partial L}{\partial \dot{q}} \right ) = \frac{\partial L}{\partial q} $$
+## RESEARCH EXPERIENCE
 
-The [Schrödinger equation](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation) describes how the quantum state of a quantum system changes with time.
+# [Yi Lu Group](https://lulab.cm.utexas.edu/)
 
-$$ i\hbar\frac{\partial}{\partial t} \Psi(\mathbf{r},t) = \left [ \frac{-\hbar^2}{2\mu}\nabla^2 + V(\mathbf{r},t)\right ] \Psi(\mathbf{r},t) $$
+# [David Sarlah Group](sarlahgroup.com)
 
-## Code
-
-Embed code by putting `{{ "{% highlight language " }}%}` `{{ "{% endhighlight " }}%}` blocks around it. Adding the parameter `linenos` will show source lines besides the code.
-
-{% highlight c %}
-
-static void asyncEnabled(Dict* args, void* vAdmin, String* txid, struct Allocator* requestAlloc)
-{
-    struct Admin* admin = Identity_check((struct Admin*) vAdmin);
-    int64_t enabled = admin->asyncEnabled;
-    Dict d = Dict_CONST(String_CONST("asyncEnabled"), Int_OBJ(enabled), NULL);
-    Admin_sendMessage(&d, txid, admin);
-}
-
-{% endhighlight %}
+# [Zhaoguo Zhang Group](https://zhaoguo.sjtu.edu.cn/)
 
 ## Gists
 
