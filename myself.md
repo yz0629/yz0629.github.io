@@ -50,18 +50,18 @@ Protein engineering; Metabolic engineering; Organic chemistry analysis tools suc
 ### Music
 Favorite male singer: 
 
-[Terrence Lam](https://www.youtube.com/channel/UC5NMESRUXEIpoi5GzGiHEDA) 林家謙
+[Terrence Lam](https://www.youtube.com/channel/UC5NMESRUXEIpoi5GzGiHEDA) 林家謙: [時光倒流一句話](https://www.youtube.com/watch?v=AW71ZqZHkkg), [听风](https://www.youtube.com/watch?v=yk54jv3enR0)
 
 Favorite female singers: 
 
-[Miriam Yeung](https://www.youtube.com/channel/UCSCtPmO9UFq-DF01nsNoF6g) 楊千嬅
+[Miriam Yeung](https://www.youtube.com/channel/UCSCtPmO9UFq-DF01nsNoF6g) 楊千嬅: [自由行](https://music.apple.com/us/search?term=%E8%87%AA%E7%94%B1%E8%A1%8C); [寒舍](https://music.apple.com/us/search?term=%E5%AF%92%E8%88%8D)
 
-[Kay Tse](https://www.youtube.com/channel/UCvlce5EgkkuzHW4ez0V49sw) 謝安琪
+[Kay Tse](https://www.youtube.com/channel/UCvlce5EgkkuzHW4ez0V49sw) 謝安琪: [3/8](https://www.youtube.com/watch?v=u3WpirQna10); [囍帖街](https://www.youtube.com/watch?v=YNLl43QKvvc)
 
 ### Travelling
 Favorite destination so far: Chicago, Seattle
 
-Fan of [oneworld](https://www.oneworld.com/members) alliance: [American Airlines](https://www.aa.com/homePage.do) and [Alaska Airlines](https://www.alaskaair.com/)
+Fan of [Oneworld](https://www.oneworld.com/members) alliance: [American Airlines](https://www.aa.com/homePage.do) and [Alaska Airlines](https://www.alaskaair.com/)
 
 ## Embedded content
 
