@@ -13,7 +13,7 @@ categories: default
 # {% include embed.html url="https://www.youtube.com/embed/_C0A5zX-iqM" %}
 ---
 
-![Yu's portrait](https://github.com/yz0629/yz0629.github.io/blob/master/Yu_Zhou.jpeg)
+![Yu's portrait](https://github.com/yz0629/yz0629.github.io/blob/a0eb8c8757e20d5ee376b124befe2fe7fc398173/Yu_Zhou.jpeg)
 
 
 ## EDUCATION
