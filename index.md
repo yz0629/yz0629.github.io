@@ -5,7 +5,7 @@ layout: page
 
 ---
 
-I am a third-year graduate student in the Lu Lab at the University of Texas, Austin.
+I am a third-year graduate student in the [Lu Lab](https://lulab.cm.utexas.edu/) at the [University of Texas, Austin](https://www.utexas.edu/).
 
 My research interests cover biocatalysis and metabolic engineering.
 
