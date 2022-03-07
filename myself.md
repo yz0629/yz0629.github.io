@@ -7,7 +7,7 @@ categories: default
 # You can enable MathJax by setting `mathjax: true` on a page or globally in the `_config.yml`. Some examples:
 ---
 
-![Yu's portrait]()
+![Yu's portrait](https://github.com/yz0629/yz0629.github.io/blob/master/Yu_Zhou.jpeg)
 
 
 ## EDUCATION
