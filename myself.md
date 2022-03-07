@@ -22,6 +22,7 @@ University of Illinois, Urbana-Champaign (UIUC) - [Department of Chemistry](http
 
 ### [Yi Lu Group](https://lulab.cm.utexas.edu/)
 Project 1: Engineering Polyketide Synthases for the Biosynthetic Chemoselective Production of Novel Polyketides
+
 Project 2: Artificial Metalloenzyme Catalyzed Regioselective C-H and C=C bond Oxidation
 
 ### [David Sarlah Group](sarlahgroup.com), 
@@ -29,10 +30,12 @@ Palladium-Catalyzed Dearomative syn-1,4-carboamination. Published: [Angew. Chem.
 
 ### [Zhaoguo Zhang Group](https://zhaoguo.sjtu.edu.cn/)
 Copper-Catalyzed Selective Aerobic Oxidation of Amines to Nitriles. Published: [Tetrahedron, 2018, 74(31), 4266](https://www.sciencedirect.com/science/article/abs/pii/S0040402018307543)
+
 Palladium-Catalyzed Diarylation of Anilines with Unactivated Aryl Chlorides. Published: [Chinese Journal of Chemistry, 2017, 35(11), 1749](https://onlinelibrary.wiley.com/doi/abs/10.1002/cjoc.201700276)
 
 ## AWARDS
 Carl S. Marvel Fellowship (UIUC): Sep 2020
+
 Zhiyuan Honors Degree (SJTU): Jun 2019
 
 ## SKILLS
