@@ -9,4 +9,4 @@ I am a third-year graduate student in the [Lu Lab](https://lulab.cm.utexas.edu/)
 
 My research interests cover biocatalysis and metabolic engineering.
 
-I love listening to pop music, watchcing TV and travelling. 
+I love listening to pop music, watching TV and travelling. 
