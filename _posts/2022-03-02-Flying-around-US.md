@@ -6,8 +6,4 @@ categories:
   - aviation
   - favorites
 ---
-## Header goes here
-
-My favorite singer below:
-
-[link](https://www.youtube.com/channel/UC5NMESRUXEIpoi5GzGiHEDA)
+## To be updated.... hahaha
