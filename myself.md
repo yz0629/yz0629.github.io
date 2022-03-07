@@ -49,6 +49,7 @@ Protein engineering; Metabolic engineering; Organic chemistry analysis tools suc
 ## HOBBIES
 ### Music
 Favorite male singer: 
+
 [Terrence Lam](https://www.youtube.com/channel/UC5NMESRUXEIpoi5GzGiHEDA) 林家謙
 
 Favorite female singers: 
@@ -58,7 +59,10 @@ Favorite female singers:
 [Kay Tse](https://www.youtube.com/channel/UCvlce5EgkkuzHW4ez0V49sw) 謝安琪
 
 ### Travelling
-Favorite destination so far: Chicago, Seattle
+Favorite destination so far: 
+
+Chicago, Seattle
+
 Fan of [oneworld](https://www.oneworld.com/members) alliance: [American Airlines](https://www.aa.com/homePage.do) and [Alaska Airlines](https://www.alaskaair.com/)
 
 ## Embedded content
